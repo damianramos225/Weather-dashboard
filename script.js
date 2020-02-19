@@ -23,7 +23,7 @@ $(document).on("click", "#searchCity", function () {
 
 
 
-    var queryURL = "https://api.openweathermap.org/data/2.5/forecast?q=Newyork,us&appid=ea1ee909c94c46ccd1e4885c0e999ea2";
+    var queryURL = "https://api.openweathermap.org/data/2.5/forecast?q=Boston,us&appid=ea1ee909c94c46ccd1e4885c0e999ea2";
 
 
     $.ajax({
